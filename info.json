@@ -1,6 +1,6 @@
 {
     "name": "ArgentCoin",
-    "symbol": "ARGC",
+    "symbol": "ARG",
     "type": "ERC20",
     "decimals": 18,
     "status": "active",
